@@ -1,7 +1,7 @@
 # splunkllm
 splunk llm 
 
-git clone 
+git clone https://github.com/GowriShankarG/splunkllm.git
 
 # commands for google instance creation
 
