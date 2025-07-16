@@ -1,0 +1,6 @@
+2025-07-15 21:00:01 INFO User 'john_doe' logged in from IP 192.168.1.100.
+2025-07-15 21:00:05 WARN Failed login attempt for user 'jane_smith' from IP 10.0.0.5.
+2025-07-15 21:00:10 INFO Data processing started for batch_id=XYZ123.
+2025-07-15 21:00:15 ERROR Database connection failed: Connection refused.
+2025-07-15 21:00:20 INFO User 'admin' performed a configuration change.
+
